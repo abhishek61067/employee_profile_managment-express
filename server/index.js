@@ -5,7 +5,7 @@ const mysql = require("mysql");
 
 const cors = require("cors");
 
-app.use(cors());
+app.use(cors())
 // const corsConfig = {
 //     credentials: true,
 //     origin: true,
